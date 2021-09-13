@@ -1,0 +1,1 @@
+cuadro general;planta 0;electricidad;trifasica

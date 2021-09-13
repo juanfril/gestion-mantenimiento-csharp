@@ -1,0 +1,8 @@
+Joaquin Martínez;fontanero;01/07/2015
+Cesar Juarez;frigorista;23/10/2018
+Antonio Domingo;electricista;02/12/2020
+Raul Calvo;fontanero;15/03/2011
+Perico Picado;frigorista;21/02/2019
+Oscar sanches;electricista;12/05/2021
+Manuel Lopez;fontanero;12/05/2021
+Ahora;fontanero;12/05/2021
